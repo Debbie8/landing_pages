@@ -1,0 +1,54 @@
+body{
+    margin: 0 ;
+    padding: 0;
+    overflow-x: scroll;
+    width: 100%;
+}
+.design{
+    margin-top: 0;
+    background-color: #004252;
+    width: 100% !important ;
+    position: relative;
+    /* height: auto; */
+}
+
+.about{
+    color: #b1c387;
+    margin-top: 10%;
+    letter-spacing: 2px;
+    font-size: 1em;
+   
+}
+
+.rely{
+
+    font-size: 2em;
+    color: #feffff;
+    font-weight: 700;   
+}
+
+.note{
+    font-size: 0.8 em;
+    color: #feffff;
+}
+
+.button{
+    border-radius: 0 !important;
+    padding: 3px 10px  !important;    
+    margin-bottom: 60px;
+}
+
+.rec{
+    margin-top: 27%;
+    height: 200px;
+    width: 60%;
+    background-color: #ffc502;
+    clip-path: polygon(25% 0%, 100% 0%, 75% 100%, 0% 100%);
+    
+}
+
+.pics{
+    clip-path: polygon(25% 0%, 100% 0%, 75% 100%, 0% 100%);
+    margin-top: -31%;
+    position: absolute;
+}
