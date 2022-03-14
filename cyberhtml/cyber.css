@@ -1,0 +1,233 @@
+body{
+    background-image: url("images/bckgrdimage.jpg");
+    background-size: cover;
+    background-repeat: none;
+    
+}
+
+.acc{
+    text-align: right;
+    color: #141414;
+    font-size: 1.2rem;
+    font-weight: 500;
+    
+
+}
+.acct{
+    text-align: right;
+    margin-top: -15px;
+    color: #141414;
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+
+.logo{
+    width:  170px;
+    margin-top: -10px;
+}
+
+.top{
+    margin-top: 55px;
+}
+
+.present{
+    background-color: #544c4a;
+    color: white;
+    text-align: right;
+    padding: 4px;
+    font-size: 1.5rem;
+    font-weight: 700;
+    letter-spacing: 3px;
+    padding-left: 19px !important;
+    width: 20%;
+}
+
+.cert{
+    color: #544c4a ;
+    font-size: 2.3rem;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+#cyber h1{
+    text-shadow: 4px 4px 0px lightslategray;
+   
+}
+
+.cyber{
+    color: #544c4a ;
+    font-size: 100px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    margin-top: -30px;
+}
+
+.security{
+    color: #e60105 ;
+    font-size: 100px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    margin-top: -40px;
+}
+
+.certs{
+    color: #544c4a ;
+    font-size:2.3rem;
+    font-weight: 700;
+    letter-spacing: 1px;
+    margin-top: -20px;
+}
+
+.timebox{
+   width: 100%;
+   border: 1px solid #544c4a ;
+   border-top-right-radius:25px ;
+   padding: 0;
+   text-align: center;
+   color: white;
+   height: 100%;
+   
+} 
+#time{
+   position: relative;
+   top: -7px;
+}
+
+.timebox1{
+    width: 100%;
+    border: 1px solid #544c4a ;
+    border-top-left-radius:25px ;
+    padding: 0;
+    text-align: center;
+    color: white;
+    height: 100%;
+ } 
+
+.time{
+    text-align: center;
+    color: #030303;
+    background-color: white;
+    border-top-right-radius:25px ;
+
+}
+.timediv{
+   background-color: #544c4a; 
+}
+
+.hour{
+    text-align: center;
+    color: white;
+}
+
+.date{
+    text-align: center;
+    color: #030303;
+    background-color: white;
+    border-top-left-radius:25px ;
+}
+
+.day{
+    text-align: center;
+    color: white;
+    font-size: 0.9em;
+    position: relative;
+    top: -7px;
+}
+
+.year{
+    text-align: center;  
+    margin-top: -20px;
+    color: white;
+}
+
+.month{
+    background-color: #544c4a;
+}
+
+.fees{
+    border: 1px solid #544c4a ;
+    border-top-right-radius: 20px; 
+    border-bottom-left-radius: 20px; 
+    margin-top: 20px;
+    text-align: center;
+    padding: 0;
+
+}
+
+.fee{
+    color: #544c4a;
+    text-align: center;
+    font-size: 1.2em !important;
+    font-weight: 500;
+    position: relative;
+    top: -8px;
+    left: -10px;
+    padding-top: 0;
+}
+
+.discount{
+    color: hsl(358deg 98% 47%);
+    font-size: 2.3em !important;
+    font-weight: 500;
+    font-size: 1rem;
+    text-align: center;
+}
+
+.before{
+    color: #544c4a;
+    text-align: center;
+    font-size: 1.6em !important;
+    font-weight: 500;
+    padding-left: 10px;
+    text-decoration: line-through;
+}
+
+.register{
+    font-weight: 500;
+    font-size: 1.2rem;
+    color: #544c4a;
+}
+
+.inst{
+    border: 1px solid #544c4a ;
+    border-radius: 20px;  
+    margin-top: 20px;
+    text-align: center;
+    width: 80%;
+    background-color: #544c4a;
+    color: white;
+    letter-spacing: 2px;
+    font-weight: 700;
+}
+
+.certified{
+    width: 40%;
+}
+
+.security{
+    width: 42%; 
+    margin-top: 8px;
+}
+
+.number{
+    color: #e60105;
+    margin-top:-10px;
+    
+}
+
+.call{
+    color: #544c4a; 
+    font-weight: 600;
+    font-size: 1.2rem;   
+}
+
+.calls{
+    border: 2px solid #544c4a;
+    border-radius: 100%;
+    padding: 5px;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    background-color: #544c4a;
+    color: white;
+}
